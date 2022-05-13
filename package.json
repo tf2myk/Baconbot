@@ -1,0 +1,18 @@
+{
+  "name": "baconbot",
+  "version": "1.0.0",
+  "description": "pugbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "myk",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1",
+    "steamid": "^1.1.3",
+    "steamid-parser": "^1.0.1"
+  }
+}
